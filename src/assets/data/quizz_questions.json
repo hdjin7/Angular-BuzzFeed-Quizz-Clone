@@ -1,0 +1,140 @@
+{
+  "title": "Você seria um JEDI ou SITH ?",
+  "questions": [
+    {
+      "question": "O que é mais importante para você?",
+      "options": [
+        {
+          "id": 1,
+          "name": "A liberdade e a autonomia pessoal.",
+          "alias": "Jedi"
+        },
+        {
+          "id": 2,
+          "name": "A supremacia e o poder pessoal.",
+          "alias": "Sith"
+        },
+        {
+          "id": 3,
+          "name": "A igualdade e a justiça para todos.",
+          "alias": "Jedi"
+        },
+        {
+          "id": 4,
+          "name": "A lealdade e a obediência dos outros.",
+          "alias": "Sith"
+        }
+      ]
+    },
+    {
+      "question": "O que você valoriza mais em um líder?",
+      "options": [
+        {
+          "id": 1,
+          "name": "A habilidade de comandar e impor a sua vontade aos outros.",
+          "alias": "Sith"
+        },
+        {
+          "id": 2,
+          "name": "A habilidade de inspirar e motivar outros a fazer o bem.",
+          "alias": "Jedi"
+        },
+        {
+          "id": 3,
+          "name": "A habilidade de liderar com sabedoria e justiça.",
+          "alias": "Jedi"
+        },
+        {
+          "id": 4,
+          "name": "A habilidade de conquistar o poder e a lealdade dos outros.",
+          "alias": "Sith"
+        }
+      ]
+    },
+    {
+      "question": "Como você se sente em relação à morte?",
+      "options": [
+        {
+          "id": 1,
+          "name": "Eu não temo a morte, pois acredito que ela me levará a uma forma ainda mais poderosa de existência.",
+          "alias": "Sith"
+        },
+        {
+          "id": 2,
+          "name": "Eu aceito a morte como parte natural da vida e da força.",
+          "alias": "Jedi"
+        },
+        {
+          "id": 3,
+          "name": "Eu temo a morte e faria qualquer coisa para evitá-la.",
+          "alias": "Sith"
+        },
+        {
+          "id": 4,
+          "name": "Eu me preocupo com a morte, mas aceito que todos nós temos um destino final.",
+          "alias": "Jedi"
+        }
+      ]
+    },
+    {
+      "question": "Qual é a sua opinião sobre a emoção?",
+      "options": [
+        {
+          "id": 1,
+          "name": "As emoções são importantes, pois me dão força e motivação para alcançar meus objetivos.",
+          "alias": "Sith"
+        },
+        {
+          "id": 2,
+          "name": "As emoções são importantes, mas devem ser mantidas em equilíbrio e não devem interferir na razão e na lógica.",
+          "alias": "Jedi"
+        },
+        {
+          "id": 3,
+          "name": "As emoções são importantes e devem ser respeitadas e controladas.",
+          "alias": "Jedi"
+        },
+        {
+          "id": 4,
+          "name": "As emoções são importantes, pois me permitem manipular e controlar os outros.",
+          "alias": "Sith"
+        }
+      ]
+    },
+    {
+      "question": "Como você lida com a perda?",
+      "options": [
+        {
+          "id": 1,
+          "name": "Eu aceito a perda e tento aprender com ela.",
+          "alias": "Jedi"
+        },
+        {
+          "id": 2,
+          "name": "Eu fico com raiva e uso a perda como motivação para atingir meus objetivos.",
+          "alias": "Sith"
+        },
+        {
+          "id": 3,
+          "name": "Eu tento superar a perda com sabedoria e paciência.",
+          "alias": "Jedi"
+        },
+        {
+          "id": 4,
+          "name": "Eu fico com raiva e busco vingança.",
+          "alias": "Sith"
+        }
+      ]
+    }
+  ],
+  "results": {
+    "Sith": {
+      "name": "SITH",
+      "logo": "assets/imgs/sith-logo.png"
+    },
+    "Jedi": {
+      "name": "JEDI",
+      "logo": "assets/imgs/jedi-logo.png"
+    }
+  }
+}
