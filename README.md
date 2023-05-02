@@ -2,7 +2,7 @@
 
 ## Desafio de Clone do BuzzFeed Angular da DIO.
 
-## Clique em [BuzzFeed]() para visualizar o projeto.
+## Clique em [BuzzFeed quizz Jedi ou Sith](https://hdjin7.github.io/Angular-BuzzFeed-Quizz-Clone/) para visualizar o projeto.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.5.
 
